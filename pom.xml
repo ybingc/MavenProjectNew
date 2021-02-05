@@ -30,6 +30,7 @@
               <mainClass>com.mycompany.app.App</mainClass>
             </manifest>
           </archive>
+          </archive>
         </configuration>
       </plugin>
     </plugins>
